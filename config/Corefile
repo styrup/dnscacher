@@ -1,0 +1,5 @@
+.:53 {
+        prometheus
+        forward . 10.0.0.53:53
+        cache skelnet.lan
+}
